@@ -13,17 +13,17 @@ machine learning, and applied software engineering.
 - **TCP Bulletin Board Server**  
   Concurrent TCP server with a documented protocol and shared state  
   → C, sockets, `select()`, Linux  
-  → [github.com/OliverKris/CSCI6431Final-BulletinBoard](TCP Bulletin Board Repo)
+  → [TCP Bulletin Board Repo](github.com/OliverKris/CSCI6431Final-BulletinBoard)
 
 - **Computer Price Prediction**  
   Neural network regression with feature engineering and baseline comparison  
   → Python, PyTorch, Pandas  
-  → [github.com/OliverKris/computer-price-prediction](Computer Price Prediction Repo)
+  → [Computer Price Prediction Repo](github.com/OliverKris/computer-price-prediction)
 
 - **Personal Portfolio Website**  
   Data-driven React site with light/dark theming and reusable components  
   → React, TypeScript, Vite  
-  → [github.com/OliverKris/my-website](Personal Website Repo)
+  → [Personal Website Repo](github.com/OliverKris/my-website)
 
 ## Technical Focus
 - **Systems:** C, Linux, POSIX, sockets, concurrency
