@@ -25,13 +25,13 @@ machine learning, and applied software engineering.
   → React, TypeScript, Vite  
   → github.com/you/portfolio
 
-### Technical Focus
+## Technical Focus
 - **Systems:** C, Linux, POSIX, sockets, concurrency
 - **Machine Learning:** PyTorch, regression, feature engineering, evaluation
 - **Web:** React, TypeScript, CSS Modules, Vite
 - **Tooling:** Git, Docker, Make, debugging
 
-### Teaching & Mentorship
+## Teaching & Mentorship
 - Graduate Teaching Assistant — Computer Systems Fundamentals
 - Designed and graded programming assignments in C
 - Built autograders and test harnesses for reproducible evaluation
