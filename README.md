@@ -37,4 +37,4 @@ machine learning, and applied software engineering.
 - Built autograders and test harnesses for reproducible evaluation
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/okrisetya) | Website | [Email](mailto:okrisetya@gwu.edu)
+[LinkedIn](https://linkedin.com/in/okrisetya) | [Website](https://oliverkrisetya.vercel.app/) | [Email](mailto:okrisetya@gwu.edu)
