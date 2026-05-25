@@ -3,7 +3,7 @@ Graduate Student, The George Washington University | Systems & ML | Teaching Ass
 
 I'm a software engineer and M.S. Computer Science graduate from The George Washington University, focused on systems programming, full-stack development, backend engineering, and applied machine learning.
 
-I enjoy building reliable software across the stack: networked applications in C, developer tools and test infrastructure, data-driven web applications, and ML models with clear eveluation.
+I enjoy building reliable software across the stack: networked applications in C, developer tools and test infrastructure, data-driven web applications, and ML models with clear evaluation.
 
 ## Technical Focus
 
@@ -39,6 +39,7 @@ A machine learning regression project for predicting computer prices using featu
 **Tech:** Python, PyTorch, Pandas, NumPy
 
 **Highlights:**
+
 - Cleaned and transformed structured product data
 - Compared neural network performance against simpler baselines
 - Evaluated model behavior using regression metrics
@@ -46,21 +47,51 @@ A machine learning regression project for predicting computer prices using featu
 
 [View Repository](github.com/OliverKris/computer-price-prediction)
 
-- **Personal Portfolio Website**  
-  Data-driven React site with light/dark theming and reusable components  
-  - React, TypeScript, Vite  
-  - [Personal Website Repo](github.com/OliverKris/my-website)
+---
 
-## Technical Focus
-- **Systems:** C, Linux, POSIX, sockets, concurrency
-- **Machine Learning:** PyTorch, regression, feature engineering, evaluation
-- **Web:** React, TypeScript, CSS Modules, Vite
-- **Tooling:** Git, Docker, Make, debugging
+### Personal Portfolio Website
+
+A data-driven portfolio website built with reusable React components, light/dark theming, and a clean project showcase structure.
+
+**Highlights:**
+
+- Built a responsive personal website to present projects and experience
+- Used reusable components and structured project data
+- Implemented light/dark theme support
+- Deployed as a public portfolio site
+
+[View Website](https://oliverkrisetya.vercel.app/)  
+[View Repository](github.com/OliverKris/my-website)
+
+---
+
+### ELF Binary Size Reduction Research
+
+Research project evaluating techniques for reducing ELF binary size in embedded and systems software contexts.
+
+**Focus:** Linux, ELF binaries, benchmarking, systems research
+
+**Highlights:**
+
+- Evaluated competing binary size-reduction tools and configurations
+- Designed benchmarking workflows for apples-to-apples comparison
+- Analyzed binary size changes across multiple experimental setups
+- Worked at the intersection of systems programming, tooling, and empirical evaluation
 
 ## Teaching & Mentorship
-- Graduate Teaching Assistant — Computer Systems Fundamentals
-- Designed and graded programming assignments in C
-- Built autograders and test harnesses for reproducible evaluation
+
+I have served as a Graduate Teaching Assistant and Undergraduate Teaching Assistant in computer science courses at GWU, supporting systems, computer architecture, operating systems, and database coursework.
+
+My teaching work includes designing programming assignments, building autograders, writing test harnesses, debugging C and Assembly programs, and helping students understand low-level execution, memory, and systems concepts.
+
+## What I'm Looking For
+
+I'm interested in software engineering roles involving backend systems, full-stack development, infrastructure, developer tooling, systems programming, databases, or ML-backed applications.
+
+I am especially drawn to teams that value clean engineering, strong debugging practices, thoughtful system design, and clear technical communication.
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/okrisetya) | [Website](https://oliverkrisetya.vercel.app/) | [Email](mailto:okrisetya@gwu.edu)
+
+- Portfolio: https://oliverkrisetya.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/okrisetya/
+- Email: okrisetya@gwu.edu
