@@ -1,5 +1,4 @@
 # Hi there, I'm Oliver Krisetya
-Graduate Student, The George Washington University | Systems & ML | Teaching Assistant
 
 I'm a software engineer and M.S. Computer Science graduate from The George Washington University, focused on systems programming, full-stack development, backend engineering, and applied machine learning.
 
